@@ -1,0 +1,61 @@
+{
+  "mappings": [
+    {
+      "old": {
+        "filename": "ˑ$ˊ.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali\\a\\ˑ$ˊ.smali",
+        "classname": "La/ˑ$ˊ;",
+        "packagename": "a.ˑ$ˊ"
+      },
+      "new": {
+        "filename": "0.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali\\a\\0.smali",
+        "classname": "La/0;",
+        "packagename": "a.0"
+      }
+    },
+    {
+      "old": {
+        "filename": "ﱟ$ˊ.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes2\\b\\ﱟ$ˊ.smali",
+        "classname": "Lb/ﱟ$ˊ;",
+        "packagename": "b.ﱟ$ˊ"
+      },
+      "new": {
+        "filename": "0.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes2\\b\\0.smali",
+        "classname": "Lb/0;",
+        "packagename": "b.0"
+      }
+    },
+    {
+      "old": {
+        "filename": "ˀ$ˊ.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes3\\c\\ˀ$ˊ.smali",
+        "classname": "Lc/ˀ$ˊ;",
+        "packagename": "c.ˀ$ˊ"
+      },
+      "new": {
+        "filename": "0.smali",
+        "filepath": "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes3\\c\\0.smali",
+        "classname": "Lc/0;",
+        "packagename": "c.0"
+      }
+    }
+  ],
+  "files": [
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali\\a\\ˑ$ˊ.smali",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes2\\b\\ﱟ$ˊ.smali",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes3\\c\\ˀ$ˊ.smali"
+  ],
+  "root_dirs": [
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes2",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes3"
+  ],
+  "dirs": [
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali\\a",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes2\\b",
+    "C:\\_z\\t43\\node-remap-apktool-unicode-filenames\\tests\\remap\\01b-after\\smali_classes3\\c"
+  ]
+}

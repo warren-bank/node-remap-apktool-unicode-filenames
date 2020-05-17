@@ -1,0 +1,19 @@
+{
+  "name": "@warren-bank/node-remap-apktool-unicode-filenames",
+  "version": "1.0.0",
+  "main": "lib/remap.js",
+  "description": "Command-line utility for remapping unicode filenames to ascii when produced by apktool.",
+  "license": "GPL-2.0",
+  "bin": {
+    "rauf": "bin/rauf.js"
+  },
+  "author": {
+    "name": "Warren R. Bank",
+    "email": "warren.r.bank@gmail.com",
+    "url": "https://github.com/warren-bank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-remap-apktool-unicode-filenames"
+  }
+}
